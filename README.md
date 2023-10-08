@@ -1,6 +1,6 @@
-#Vision : Python-Based Voice Assistant Project
+# Vision : Python-Based Voice Assistant Project
 
-Description:
+### Description:
 I recently designed and implemented an innovative Python-based voice assistant project that leverages advanced speech recognition technologies. This project aimed to provide users with a seamless and convenient way to interact with their computers using voice commands. Below are the key highlights of this project:
 
 1. **Voice Control Capabilities:** The primary objective of this project was to create a voice assistant capable of understanding and executing a wide range of voice commands. Users could effortlessly control their computers by simply speaking commands.
